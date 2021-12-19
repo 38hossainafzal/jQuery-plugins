@@ -1,0 +1,29 @@
+{
+  "name": "jquery-plugin",
+  "version": "1.0.0",
+  "description": "all important and popular free jquery plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/38hossainafzal/jQuery-plugins.git"
+  },
+  "keywords": [
+    "jQuery",
+    "plugins"
+  ],
+  "author": "Md. Afzal Hossain",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/38hossainafzal/jQuery-plugins/issues"
+  },
+  "homepage": "https://github.com/38hossainafzal/jQuery-plugins#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
